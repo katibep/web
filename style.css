@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+    text-decoration: none; 
+    padding: 1rem 1rem;
+    background-color: black;
+    position: fixed;
+    width: 100%;
+}
+section{
+    min-height: 100vh;
+    padding: 5rem 8rem;
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+i{
+    font-size: 1.50rem;
+}
+.buu{
+    text-align: center;
+    
+    align-items: center;
+}
+.duu{
+    display: flex;
+    justify-content: center;
+}
+.foot{
+    font-size: 2rem;
+}
+
+.huu{
+    text-align: center;
+}
+.juu{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.eryy{
+    font-size: 2rem;
+}
+.imy{
+    margin: 0 auto;
+    width: 100%;
+}
+.nuu{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    
+}
+.naj{
+
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.forest{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.miya{
+    font-size: 2rem;
+}
+.rub{
+    text-align: center;
+    color: white;
+}
+.forest{
+    background-color: black;
+}
+
+
+.bottle{
+    width: 90%;
+    height: 60%;
+    
+}
+.contain{
+    width: 100%;
+    height: 60%;
+}
+.boom{
+    display: flex;
+    gap: 2rem;
+}
+.dental{
+    text-align: center;
+}
+
+.beg{
+    text-align: center;
+}
+
+.whole{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.all{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.bool{
+    width: 100%;
+    height: 80%;
+}
+.dude{
+    width: 100%;
+    height: 80%;
+}
+.thing{
+    text-align: center;
+}
+
+.dog{
+    text-align: center;
+}
+
+.rable{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.mouse{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.maya{
+    display: flex;
+    gap: 1rem;
+}
+.element{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+.active{
+    display: flex;
+    gap:20px;
+}
+.sap{
+    display: flex;
+    gap: 35rem;
+    margin-top: 1rem;
+}
+.abu{
+    margin-bottom: 1rem;
+}
+.well{
+    color: blue;
+}
+.actual{
+    margin-top: 0%;
+    
+}
+
